@@ -1,5 +1,5 @@
 # Hi, I'm Mariela Palmieri 👋  
-📍 Madrid, Spain | 🌎 Open to US projects (Remote)  
+📍 Madrid, Spain | 🌎 Open to remote projects
 📧 palmierimariela28@gmail.com | 📞 +34 646 282 737  
 🔗 LinkedIn: www.linkedin.com/in/mariela-palmieri| Portfolio: www.github.com/MarielaPal32
 
