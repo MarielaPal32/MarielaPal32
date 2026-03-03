@@ -78,8 +78,7 @@ This strengthens my ability to translate complex topics into clear, actionable i
 
 ---
 
-## 📌 Featured Projects 
-> Replace with your repos when ready:
+## 📌 Featured Projects
 
 - **🔗 Transformer Sales Dashboard (Power BI + SQL)** 
 - **🔗 US Demand Forecasting (ARIMA + Python)** 
