@@ -78,12 +78,12 @@ This strengthens my ability to translate complex topics into clear, actionable i
 
 ---
 
-## 📌 Featured Projects (Pin these)
+## 📌 Featured Projects 
 > Replace with your repos when ready:
 
-- **🔗 Transformer Sales Dashboard (Power BI + SQL)** — `<repo-link>`
-- **🔗 US Demand Forecasting (ARIMA + Python)** — `<repo-link>`
-- **🔗 Quote Analytics & Win/Loss Insights** — `<repo-link>`
+- **🔗 Transformer Sales Dashboard (Power BI + SQL)** 
+- **🔗 US Demand Forecasting (ARIMA + Python)** 
+- **🔗 Quote Analytics & Win/Loss Insights**
 
 ---
 
